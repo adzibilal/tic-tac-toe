@@ -17,6 +17,12 @@ Ini adalah implementasi sederhana dari permainan klasik Tic Tac Toe dalam bahasa
 - Jika semua ruang diisi tanpa ada pemenang, permainan berakhir seri.
 - Untuk mereset permainan kapan saja, klik tombol "Reset Game".
 
+## Screenshot
+![image](https://github.com/adzibilal/tic-tac-toe/assets/41812877/d5efc4e9-9624-429f-8941-376ef3278b99)
+![image](https://github.com/adzibilal/tic-tac-toe/assets/41812877/61155be6-8dd8-48c6-b7ff-5091fc1b182a)
+![image](https://github.com/adzibilal/tic-tac-toe/assets/41812877/eda8b5f3-fa28-4469-ad7c-9467b2ce398c)
+
+
 ### Kontributor
 Adzi Bilal M H
 
